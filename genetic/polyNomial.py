@@ -48,7 +48,7 @@ class Poly(object):
         
         
         
-        
+'''        
 most_walked = 0
 final_vec = []
 final_func_vec = []
@@ -138,5 +138,6 @@ for learn in range(10):
         
 print (good_d)
 print (good_exp)
+'''
 
         
